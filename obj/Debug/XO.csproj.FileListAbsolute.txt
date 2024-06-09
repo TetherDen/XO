@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\C#_NET_Lessons\XO\obj\Debug\XO.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\XO\obj\Debug\XO.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\XO\bin\Debug\XO.exe.config
+C:\Users\admin\source\repos\C#_NET_Lessons\XO\bin\Debug\XO.exe
+C:\Users\admin\source\repos\C#_NET_Lessons\XO\bin\Debug\XO.pdb
+C:\Users\admin\source\repos\C#_NET_Lessons\XO\obj\Debug\XO.exe
+C:\Users\admin\source\repos\C#_NET_Lessons\XO\obj\Debug\XO.pdb
